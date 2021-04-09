@@ -1,7 +1,7 @@
-# simply-dark
-A simple and timeless dark theme inspired by macOS terminal Basic Default color theme.
+# Old School Dark 
+An old, simple, and timeless dark theme inspired by macOS terminal Basic Default color theme.
 
-[View on Marketplace](https://marketplace.visualstudio.com/items?itemName=MengsangKorn.simply-dark)
+[View on Marketplace](https://marketplace.visualstudio.com/items?itemName=MengsangKorn.old-school-dark)
 
 ### Overview
 <img src="./screenshots/thumbnail.png" alt="Thumbnail" />
