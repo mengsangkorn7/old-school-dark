@@ -1,0 +1,36 @@
+{
+    "name": "simply-dark",
+    "displayName": "simply-dark",
+    "description": "A simple and timeless dark theme inspired by macOS terminal Basic Default color theme.",
+    "version": "0.0.1",
+    "publisher": "MengsangKorn",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/mengsangkorn7/simply-dark"
+    },
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "keywords": [
+      "theme",
+      "dark",
+      "black",
+      "dark theme",
+      "simple",
+      "macos",
+      "default",
+      "mengsang"
+    ],
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Simply Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Simply Dark-color-theme.json"
+            }
+        ]
+    }
+}
