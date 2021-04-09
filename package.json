@@ -2,24 +2,24 @@
     "name": "simply-dark",
     "displayName": "simply-dark",
     "description": "A Simple Dark Theme 😃",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "MengsangKorn",
     "repository": {
-      "type": "git",
-      "url": "https://github.com/mengsangkorn7/simply-dark"
+        "type": "git",
+        "url": "https://github.com/mengsangkorn7/simply-dark"
     },
     "engines": {
         "vscode": "^1.55.0"
     },
     "keywords": [
-      "theme",
-      "dark",
-      "black",
-      "dark theme",
-      "simple",
-      "macos",
-      "default",
-      "mengsang"
+        "theme",
+        "dark",
+        "black",
+        "dark theme",
+        "simple",
+        "macos",
+        "default",
+        "mengsang"
     ],
     "categories": [
         "Themes"
