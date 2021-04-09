@@ -1,25 +1,24 @@
 {
-    "name": "simply-dark",
-    "displayName": "simply-dark",
-    "description": "A Simple Dark Theme 😃",
+    "name": "old-school-dark",
+    "displayName": "Old School Dark",
+    "description": "Old & Simple Dark Theme 🐉",
     "version": "0.2.0",
     "publisher": "MengsangKorn",
     "repository": {
         "type": "git",
-        "url": "https://github.com/mengsangkorn7/simply-dark"
+        "url": "https://github.com/mengsangkorn7/old-school-dark"
     },
     "engines": {
         "vscode": "^1.55.0"
     },
     "keywords": [
         "theme",
+        "old",
         "dark",
-        "black",
-        "dark theme",
+        "dark-theme",
         "simple",
         "macos",
-        "default",
-        "mengsang"
+        "default"
     ],
     "categories": [
         "Themes"
@@ -27,9 +26,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Simply Dark",
+                "label": "Old School Dark",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Simply Dark-color-theme.json"
+                "path": "./themes/Old School Dark-color-theme.json"
             }
         ]
     }
